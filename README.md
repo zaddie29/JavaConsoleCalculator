@@ -1,2 +1,3 @@
 # JavaConsoleCalculator
-basic java console calculator for task 1
+basic java console calculator for my internship program (task1)
+
